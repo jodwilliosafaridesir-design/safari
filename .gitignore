@@ -1,0 +1,50 @@
+# Gradle files
+.gradle
+.gradle/
+build/
+build
+
+# Local configuration file (local properties, securely)
+local.properties
+
+# IDE
+.idea/
+.idea
+*.iml
+*.iws
+*.ipr
+*.ods
+
+# The following line is optional in addition to .gitignore above
+.cxx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Kotlin
+*.kt.bak
+.kotlin/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/timing.properties
+
+# Node
+node_modules/
+npm-debug.log
